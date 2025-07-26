@@ -3,7 +3,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://www.canva.com/design/DAGuTawVvo4/7ylGU0Cr05tvQIGV3Qdwmg/view?utm_content=DAGuTawVvo4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h0b43b7aa22"/>
+  <img src="foto.png" width="400"/>
 </div>
 
 ---
