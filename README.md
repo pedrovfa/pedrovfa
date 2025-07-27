@@ -1,9 +1,7 @@
 <h1 align="center">Oiii! Eu sou o Pedro Alonso 👋</h1>
 
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="foto.png" width="400"/>
+  <img src="assets/foto_principal.png" width="1200"/>
 </div>
 
 ---
