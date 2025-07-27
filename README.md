@@ -1,4 +1,4 @@
-<h1 align="center">Oiii! Eu sou o Pedro Alonso 👋</h1>
+<h1 align="center">Ola! Eu sou o Pedro Alonso 👋</h1>
 <div style="display: flex; justify-content: center;">
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" style="padding-right:10px;" />
