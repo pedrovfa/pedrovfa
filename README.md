@@ -1,45 +1,56 @@
-<h1 align="center">Ola! Eu sou o Pedro Alonso 👋</h1>
-<div style="display: flex; justify-content: center;">
+<h1 align="center">Olá! Eu sou o Pedro Alonso 👋</h1>
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/> &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
+  Desenvolvedor Backend | Laravel • MySQL • APIs RESTful  
+  <br/>
+  Estudante de Engenharia Informática no Instituto Politécnico de Setúbal  
+  <br/>
+  📍 Portugal • 📧 pedroviniciusfa@yahoo.com.br
 </p>
-</div>
 
-<div align="center">
-  <img src="assets/foto_principal.png" width="1200"/>
-</div>
+---
 
-<div align="center">
-  <h2 align="center">👨‍💻 Sobre mim</h2>  
-  <p align="center">
-  Sou estudante de Engenharia Informática em Portugal, com foco em desenvolvimento web (Laravel + MySQL).  
-  Entusiasta de cibersegurança, gosto de criar soluções úteis e aprender todos os dias. 
-  </p>
-</div>
+<h2 align="center">💡 Sobre</h2>
 
-<div align="center">
-  <h1 align="center">🎯 Atualmente estudando</h1>
-  <p align="center">🔐 Cibersegurança e Redes (Cisco, OWASP)</p>
-  <p align="center">💻 Desenvolvimento web avançado com **Laravel** e **Symfony**</p>
-  <p align="center">🔄 Integração com APIs públicas (REST/JSON)</p>
-</div>
+<p align="center">
+  Desenvolvedor backend com experiência em aplicações web usando <strong>Laravel, PHP e MySQL</strong>,  
+  seguindo boas práticas de arquitetura <strong>MVC</strong> e versionamento com <strong>Git/GitHub</strong>.  
+  <br/>
+  Tenho vivência com <strong>APIs RESTful</strong>, participação em ciclos ágeis e formação técnica sólida.  
+  <br/>
+  Atualmente curso <strong>Engenharia Informática</strong> e aprofundo meus estudos em  
+  <strong>cibersegurança</strong> e <strong>integração de sistemas</strong>.
+</p>
 
-<div align="center">
-  <h2 align="center">📊 Minhas estatísticas do GitHub</h2>
+---
+
+<h2 align="center">🛠️ Competências Técnicas</h2>
+
+<p align="center">
+  <strong>PHP</strong> • <strong>Laravel</strong> • <strong>JavaScript</strong> • <strong>MySQL</strong> • <strong>MongoDB</strong>  
+  <br/>
+  <strong>APIs RESTful</strong> • <strong>Node.js</strong> • <strong>Arquitetura MVC</strong> • <strong>Git & GitHub</strong>
+</p>
+
+---
+
+<h2 align="center">📊 Estatísticas GitHub</h2>
+
+<p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=pedrovfa&show_icons=true&theme=radical&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovfa&layout=compact&langs_count=8&theme=radical"/>
-</div>
+</p>
 
-<div align="center">
-  <h1 align="center">🌍 Conecte-se comigo</h1>
-  <a href="https://www.instagram.com/jeisaalonsomusicoterapeuta" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-</div>
+---
+
+<h2 align="center">🔗 Conecte-se</h2>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pedro-alonso-dev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/pedrovfa" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
