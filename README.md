@@ -3,7 +3,7 @@
 <p align="center">
   Desenvolvedor Backend | Laravel • MySQL • APIs RESTful  
   <br/>
-  Estudante de Engenharia Informática no Instituto Politécnico de Setúbal  
+  Estudante de Gestão de Sistemas no Instituto Politécnico de Setúbal  
   <br/>
   📍 Portugal • 📧 pedroviniciusfa@yahoo.com.br
 </p>
